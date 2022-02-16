@@ -1,0 +1,12 @@
+.appContainer {
+    display: flex;
+
+    .appOthersPage {
+        flex: 4;
+        margin-top: 30px;
+    }
+}
+.theLink {
+    text-decoration: none;
+    color: inherit;
+}
